@@ -234,6 +234,8 @@
 // for (const num of numbers) {
 //   console.log(num);
 // }
+//---------------------------------------------------------------------------------------------------------------------
+
 // todo: 2. What is hoisting and what is the Temporal Dead Zone (TDZ)? Explain with examples. (0.5 Grade)
 // Variable Hoisting
 //  Hoisting is JavaScript's behaviour of moving variable and function declarations to the top of their containing scope during compilation.
